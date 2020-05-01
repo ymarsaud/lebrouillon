@@ -2,7 +2,7 @@
 # Approximation d'intégrales par la méthode des rectangles
 ###
 
-## Fonction f continue, positive dont on veut approcher l'aire
+## Fonction f continue, positive dont on veut approcher l'aire sur un intervalle donné
 def f(x):
     return x**2
 
